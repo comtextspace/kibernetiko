@@ -1,0 +1,9 @@
+vuepress:
+  title: "Кибернетика"
+  base: "/"
+  revisionmeProjectId: "-OGjvPd_9n83xS520bF_"
+
+pages:
+  - index.md
+
+books:
