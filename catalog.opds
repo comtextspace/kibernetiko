@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/terms/" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Кибернетика</title>
+  <entry>
+    <title>Что такое ОГАС?</title>
+    <updated>2026-02-21T08:51:08.813Z</updated>
+    <link href="files/bibliotechka-kvant-10-chto-takoe-ogas.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Виктор Михайлович Глушков</name>
+    </author>
+    <author>
+      <name>Валерий Яковлевич Валах</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Макроэкономические модели и принципы построения ОГАС</title>
+    <updated>2026-02-21T08:51:10.990Z</updated>
+    <link href="files/glushkov-makroekonomicheskie-modeli-i-principy-postroeniya-ogas.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Виктор Михайлович Глушков</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Основы безбумажной информатики</title>
+    <updated>2026-02-21T08:51:11.704Z</updated>
+    <link href="files/glushkov-osnovy-bezbumazhnoy-informatiki.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Виктор Михайлович Глушков</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Бразды управления. Диалог с академиком В. М. Глушковым</title>
+    <updated>2026-02-21T08:51:20.639Z</updated>
+    <link href="files/moev-brazdy-upravleniya.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Виталий Александрович Моев</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Очерки истории кибернетики в СССР</title>
+    <updated>2026-02-21T08:51:24.704Z</updated>
+    <link href="files/pihorovich-ocherki-istorii-kibernetiki.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Василий Дмитриевич Пихорович</name>
+    </author>
+  </entry>
+</feed>
